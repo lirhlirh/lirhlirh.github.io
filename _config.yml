@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Li Ruiheng"
+  avatar           : "https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxgeticon?seq=628899092&username=@f153719f5cc305f786707de74195ec397105e28728d337517eaf235ffcd17f34&skey=@crypt_8738559e_ca21c531668b4df3324e6cda9313aa1c&type=big" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Wuhan"
   email            :
   uri              :
   bitbucket        :
