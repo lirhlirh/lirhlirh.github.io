@@ -88,14 +88,14 @@ author:
   bio              : "CUGER"
   location         : "Wuhan"
   email            : "liruiheng@cug.edu.cn"
-  uri              : “https://lirhlirh.github.io/”
+  uri              : https://lirhlirh.github.io/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lirhlirh"
+  github           : https://github.com/lirhlirh
   gitlab           :
   google_plus      :
   keybase          :
@@ -109,7 +109,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            : “https://weibo.com/2610061833”
+  weibo            : https://weibo.com/2610061833
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
