@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Ruiheng"
-  avatar           : "https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxgeticon?seq=507337923&username=@5352efdcedadc12dc38d7923fe6e24f168324ad8e4916828d6ccf8fd40414fa4&skey=@crypt_8738559e_bf87cf27ea6c7fea4b4a7677397951e5&type=big.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/liruihengWechat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CUGER"
   location         : "Wuhan"
   email            : "liruiheng@cug.edu.cn"
