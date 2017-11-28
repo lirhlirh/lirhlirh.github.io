@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Ruiheng"
-  avatar           : "./assets/image/liruihengWechat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "./assets/images/liruihengWechat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CUGER"
   location         : "Wuhan"
   email            : "liruiheng@cug.edu.cn"
